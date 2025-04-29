@@ -1,45 +1,360 @@
 ---
-title: "How to Guide: Dissertation"
-author: "Clara Peiret-García"
-format: revealjs
+title: "Tips for Writing a Good Dissertation"
+author: "Compiled Guide"
+format: 
+  revealjs:
+    slide-number: true
+    css: styles.css
 ---
+
+## Dissertation timetable
+
+- Kick-off (April 30th)
+- Research design (beginning of May)
+- Introduction and literature review (beginning of May)
+- Methods and results (end of May)
+- Discussion and conclusion (start of June)
+- Final review of the thesis (end of June)
+- Project updates (weekly meetings)
+- After each session -- send us some work to comment on, we can review it together before starting the next session.
+- July 21st -- Dissertation mini-conference
+- August 22nd -- Dissertation submission deadline
+
+## Kick-off
+
+- Introductions
+- Project outlines
+- Data (e.g. specific variables you have identified)
+- Possible methods (and assumptions about these methods)
+- Expectations from supervisor
+- [Studying for a dissertation](https://andrewmaclachlan.github.io/CASAdissertation-studying-for-a-dissertation/#1)
 
 # Research Design
 
-## Research question, aim, and objectives definitions
+## What is Research Design?
 
-- **Research question**: Is the central question that the thesis will try to answer.
+- A clear plan that guides your dissertation from start to finish
+- Helps you define *what* you are studying, *why*, and *how* you will achieve it
 
-    - Example: *What has been the impact of the UK sugar tax on obesity levels?*
+## Research Question, Aim, and Objectives
 
-- **Research aim**: Is a broad statement of what you intend to achieve within your thesis -- usually, it is the research question paraphrased.
+- **Research question**: The central question your dissertation will answer.
 
-    - Example: This research will evaluate the impact of the 2018 Soft Drinks Levy on obesity in hte UK.
+    > Example: *What has been the impact of the UK sugar tax on obesity levels?*
 
-## Research question, aim, and objectives definitions
+- **Research aim**: A broad statement of intent, often paraphrasing the research question.
 
-- **Research objectives**: They are a list of measurable and specific goals required in order to achieve your research aim. It is good practice for objectives to follow the S.M.A.R.T. format: 
+    > Example: *This research will evaluate the impact of the 2018 Soft Drinks Levy on obesity levels in the UK.*
 
-    - **S**pecific: State exactly what you need to achieve.
-    - **M**easurable: Clearly outline how you will known if you have achieved the objective.
-    - **A**chievable: Set objectives that you think will be achievable based on your experience.
-    - **R**ealistic: Establish if you will be able to fulfill the objective. 
-    - **T**ime constrained: Identify when objectives should be completed by to ensure the project is finished on time.
+- **Research objectives**: Specific, measurable goals that help you answer your research question.
 
-## Research question, aim, and objectives definitions
+    - <span style="color:red;">**S**</span>pecific: State exactly what you need to achieve
+    - <span style="color:red;">**M**</span>easurable: Explain how you will know if you’ve achieved it
+    - <span style="color:red;">**A**</span>chievable: Ensure goals are realistic for your time and skills
+    - <span style="color:red;">**R**</span>ealistic: Objectives should push boundaries, but not be unrealistic
+    - <span style="color:red;">**T**</span>ime constrained: Define deadlines to keep on track
 
-Objectives will develop as you carry out your work, but using the example of the sugar tax a starting point could be:
+---
 
-- Review existing work and the political landscape that led to the new levy.
-- Provide a compressive statistical and spatial comparison between obesity levels prior to and after the implementation of the 2018 Soft Drinks Levy.
-- Establish the spatial distribution of influence and explore any regional variations through spatial analysis.
-- Evaluate the effectiveness compared to levies implemented in other similar countries. Produce recommendations for targetted evidence-based policies or actions.
+## Example of Developing Objectives
 
-# Writing the thesis
+Using the UK sugar tax example, your objectives might be:
 
-# 
+- Review existing literature and political context leading to the levy
+- Provide a statistical and spatial comparison of obesity levels before and after the levy
+- Establish regional variations in impact through spatial analysis
+- Compare effectiveness with similar policies internationally
+- Produce evidence-based recommendations for future policy
+
+# Writing a Dissertation
+
+<br>
+
+<div style="font-size: 70%; text-align: center; margin-top: 1em;">
+Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertation-studying-for-a-dissertation/#127\" target=\"_blank\">CASA Dissertation Guide (Andrew MacLachlan)</a>
+</div>
+
+##
 
 ![Source: https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/](scientific-writing-featured.png)
 
-## Introduction and literature review
+# Introduction & Literature Review
 
+## Purpose of the Introduction
+
+- State the broad challenge or issue your research addresses
+- Provide global context before narrowing down to local case studies
+- Show why your researc matters and the gap it addresses
+
+## Setting up the **big picture**
+
+:::: {.columns}
+
+::: {.column width="49%"}
+
+**Policy papers**
+
+- UN Sustainable Development Goals
+- C40 Cities
+- London Plan
+- New Urban Agenda
+- Johannesburg's Spatial Development Framework 2040
+
+:::
+
+::: {.column width="1%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="50%"}
+
+**Research papers**
+
+- Give cities a seat at the top table, Acuto 2016
+- Scientists must have a say in the future of cities, McPherson 2016
+- Global science for city policy, Acuto 2018
+- A global economic assessment of city policies to reduce climate change impacts, Estrada 2017
+- A unified theory of urban living, Bettencourt 2010
+
+:::
+
+::::
+
+## Start of Introduction -- Example 1
+
+<span style="font-size: 75%;">
+
+> "The fire has always been a major unpredictable factor that presents a safety risk to people. Especially in the United Kingdom, which is a country where fires occur frequently. Throughout British history, many large-scale fires have caused irrevocable damage to London. Among them, the most famous fire was the Great Fire of London in 1666 (J. Carlson, 2005) ，which lasted for four days before it was completely put out, making 70,000 people homeless and destroying thousands of medieval buildings. However, the only reason for that was a fire in the bakery. This shows that the fire is very contagious. For the government, it is imperative to detect a fire immediately and take corresponding measures as soon as possible."
+
+</span>
+
+- The introduction **focuses too much on historical background** without clearly linking to a current challenge.
+- It **jumps from past to present** without explaining why the historical context is relevant.
+- The statement \"fires occur frequently in the UK\" is **asserted without evidence** — no statistics or contemporary references.
+- There is **no clear research gap** identified.
+- It **describes** a problem but **does not sell** why studying it now matters for policy, planning, or society.
+
+
+
+## Start of an Introduction -- Example 2
+
+<span style="font-size: 75%;">
+
+> "Traffic safety problems are causing incommensurate harm to pedestrians in cities around the world (Bartolomeos et al. 2013). In the United States, 49,340 pedestrians were killed by moving vehicles between 2008 and 2017 (Zaccaro 2019). As walkability becomes more central in the minds of transportation planners, government officials, and citizens due to the corresponding advantages in the realms of health, wealth, and happiness (see section 2.1), it is critical that pedestrian traffic fatalities come to be seen not as inevitable accidents, but as ‘preventable and unacceptable’ occurrences (City of Charlotte DOT 2019, p. 8). Further, it is essential that burgeoning cities like Charlotte, North Carolina, where this study is focused, are able to grow in ways that are both sustainable and appealing. In such places, effectively addressing pedestrian safety and walkability will be one of the keys to future success. Accordingly, this goal is an important component of various global and local policies."
+
+</span>
+
+- Starts with a **global problem** (traffic safety and pedestrian fatalities) and **supports it with statistics**.
+- **Clearly defines** the importance of the topic: health, wealth, happiness, and urban sustainability.
+- **Connects global issues to a specific case study** (Charlotte, North Carolina).
+- Uses **policy references** to anchor the relevance of the topic.
+- Sets up a **clear research need**: better pedestrian safety as part of broader urban growth strategies.
+- The writing is **focused, specific, and evidence-based**, leading naturally to the research question.
+
+## End of an Introduction -- Example 1
+
+> "In summary, this article will analyze the fire distribution and causes of fire in London considering the time of the fire and the physical location through a comprehensive analysis of the establishment of GIS and related fire models to propose a suitable fire station location."
+
+- Simply **describes what the project will do**, without explaining **why** it matters.
+- **No clear contribution** to broader policy, practice, or academic gaps.
+- **Very generic**: mentions GIS and fire models, but no indication of innovation or relevance.
+- Sounds more like the **start of a Methods section** rather than a compelling research justification.
+- **Misses the opportunity** to show how the work addresses an urgent need or fills a gap.
+
+---
+
+## End of an Introduction -- Example 2
+
+> "Ultimately, this study intends to contribute to the field of traffic safety research by further investigating the possibilities for data-driven advocacy for pedestrian needs and solutions. In the words of the visionary Enrique Penalosa, ‘The essence of the conflict today, really, is cars and people...We can have a city that is very friendly to cars, or a city that is very friendly to people. We cannot have both’ (NYC Streets Renaissance 2006)."
+
+- **Clearly articulates the contribution**: using data-driven approaches to advocate for pedestrian needs.
+- **Connects to broader debates** (urban planning priorities: cars vs. people).
+- **Uses a strong quote** to reinforce the central conflict and importance of the topic.
+- The study is positioned as **part of an important global conversation** on sustainable cities.
+- **Sets up expectations** for what the research will achieve and why it is valuable.
+
+---
+
+## Literature Review -- Example 1
+
+> "Jones et al. (2017) found an interesting relationship between tree canopy coverage and heart diseases. They concluded more trees should be planted where there is a higher prevalence of heart disease. Zhang et al. (2014) found no relationship between tree canopy coverage. Smith et al. (2007) showed that trees and lung disease were related."
+
+- **Simply lists** studies without showing any connections between them.
+- No **comparison or contrast** between findings — the reader doesn't know whether these results align, contradict, or evolve.
+- **No critical thinking** or interpretation about why studies found different results.
+- **No flow or story** — it reads like a disconnected summary.
+- Makes it **hard for the reader** to understand what the bigger research problem or gap is.
+
+---
+
+## Literature Review -- Example 2
+
+> "According to the World Health Organization, twenty-two percent of all road fatalities each year are pedestrians (Bartolomeos et al. 2013, p. vii). This unsettling statistic can perhaps be attributed to the rapid growth of urban centers, paired with a lack of effort to expand pedestrian facilities (Halais 2020). Indeed, pedestrian safety is a problem all over the world. In cities in sub-Saharan Africa, more than half of all trips occur by foot (Pendakur 2005, p. 10), yet pedestrians are regularly and disproportionately involved in incidents with motor vehicles due to a lack of sufficient walkways, lighting, and other helpful urban design provisions (Halais 2020, Murguía 2018)."
+
+- **Tells a coherent story**: starting with a global statistic, explaining causes, and zooming into specific regional examples.
+- **Connects sources together** logically, showing progression of the argument.
+- **Uses evidence** from multiple studies to build a case for the research problem.
+- **Highlights a clear gap**: the lack of pedestrian infrastructure despite high pedestrian travel rates.
+- Shows **critical engagement** with the literature — not just reporting, but building an argument.
+
+# Methods
+
+## Writing the Methods Section
+
+- Provide a **high-level overview**: what methods are used and why?
+- Justify choices with literature: how have others approached similar questions?
+- Include key details: data used, preprocessing steps, tools, assumptions
+
+## Methods -- Example 1
+
+> "One of the objectives of this dissertation is to explore the relationship between nutrition, income, and obesity in the MSOA area of London. As regression analysis is the method that allows us to examine the relationship between two or more variables, regression analysis was used here to find the relationship between different factors with obesity (Foley, B, 2018). From the past literature, we can know there was a linear relationship between income, nutrition, physical activities, and obesity. So first we used the least square linear regression analysis to see if there are still linear relationships between influenced factors and obesity in geographic scale."
+
+- **Provides a clear overview** of the aim and why the method (regression) was chosen.
+- **Connects choice of method to literature** support, showing it's grounded in past findings.
+- **Introduces the study area** and scale (London MSOA).
+- Could be improved with slightly more detail on why linear regression is appropriate versus other possible methods.
+
+---
+
+## Methods -- Example 2
+
+> "The number of crashes were predicted per road segment using the selected negative binomial regression model and the predictions were compared to the true values, again using MAE, MSE, and RMSE. Where an observation was missing data, the required values were imputed using the rfImpute() function (Breiman 2003). The predicted crashes were mapped, with emphasis on the top 1% and top 25% most dangerous roads. Kumfer et al. (2019) used Empirical Bayes estimates to weight the predictions with historical crash data, but this step was omitted here. The authors write that the non-weighted predictions offer ‘a more holistic measure of pedestrian crash risk, given the uncertainty about future crash locations inherent in any crash prediction method’ (Kumfer et al. 2019, p. 427)."
+
+- **Provides technical detail** about modeling choices and evaluation metrics.
+- **Acknowledges missing data handling**, which is often overlooked but crucial.
+- **Critically reflects** on differences from past work (e.g., why Empirical Bayes was not used).
+- **Demonstrates good methodological transparency** and reasoning.
+
+# Results
+
+## Writing About Results
+
+- Avoid simply describing: "Figure X shows..."
+- **Interpret**: what does the figure show and why does it matter?
+- Link to literature: consistent or contrasting findings?
+
+## Results -- Example 1
+
+> "Figures 4.3 and 4.4 display the actual crash data and the predicted number of crashes spatially. These visualizations show that the model predictions have captured roads that have been dangerous in the past, while also highlighting roads that should potentially be the focus of future concern. To further emphasize the unsafe areas highlighted by the model, the top 1% and top 25% most dangerous roads based on the number of predicted crashes were located and mapped (see figure 4.5). The actual and predicted crash statistics for the 6 roads in the top 1% most dangerous can be seen in table 4.4."
+
+- **Interprets the results**, not just states them.
+- **Highlights key findings** and what they mean (dangerous roads, future concerns).
+- **Uses figures and tables appropriately** to support points.
+- Could be even stronger by linking back briefly to literature or policy relevance.
+
+---
+
+## Results -- Example 2
+
+> "Result of K-means clustering analysis is shown as Figure 5.4 above and disadvantageous stations need to be identified based on the result for further optimisation. From Figure 5.4, it can be noticed that off-balancing scores of bike stations are likely to follow a positive correlation with their bike demand in both periods."
+
+- **Mentions results**, but **largely describes** what is visible in the figure without deeper interpretation.
+- **States a pattern** (positive correlation), but does not explore possible reasons or implications.
+- **Relies heavily on the figure** to tell the story, rather than expanding on it.
+- **Misses an opportunity** to connect findings back to the research aim or broader issues.
+
+
+# Discussion
+
+## Purpose of the Discussion
+
+- Reflect critically on your findings
+- Compare your results to the literature and policy
+- Suggest why differences may exist
+- Offer clear and specific recommendations
+
+## Flip the Funnel
+
+- Go from **specific results** to **broader meaning and contribution**
+
+## Discussion -- Example 1
+
+> "As part of Charlotte’s work with Vision Zero, an online interactive feedback map was developed to allow citizens the opportunity to share concerns about traffic safety within the city (see figure 5.1). Griffin & Jiao find that the use of such digital technologies may introduce accessibility challenges and bias, but that ultimately, ‘Crowdsourcing tools can be valuable approaches to increase geography and equity of public participation in transportation planning’ (Griffin & Jiao 2019, p. 460). The Charlotte Vision Zero report explains: ‘The top five comments submitted related to traffic safety concerns were street design, speeding, lack of pedestrian facilities, failing to yield to pedestrians and drivers running stop signs and red lights’ (City of Charlotte DOT 2019, p. 22). The analysis conducted here has the potential to quantify the impact of changes to the built environment in terms of the number of pedestrian collisions, which could be a powerful tool for advocating for pedestrian needs in the city when combined with existing efforts such as the interactive map."
+
+- **Critically reflects** on findings in relation to broader policy initiatives (Vision Zero).
+- **Connects analysis to real-world impact**: quantifying improvements for pedestrian safety.
+- **Acknowledges limitations** (bias in digital participation tools).
+- **Shows how the research fits into wider debates** and practice.
+
+---
+
+## Discussion -- Example 2
+
+> "The module “Document Management” provides ways to identify the change of information effectively. In the case study, the structural team members can find out what modification has been added in the model file by the architectural team, they can compare the versions of the model and all the additional features will be highlighted as Figure 11."
+
+- **Describes** what the tool does, but **does not critically reflect** on strengths, weaknesses, or broader relevance.
+- **Very narrow focus**: stays at the level of functionality rather than linking to larger project outcomes or policy debates.
+- **Misses the chance** to discuss implications, challenges, or improvements.
+- **Reads more like a technical manual** rather than a discussion of findings.
+
+# Conclusion
+
+## Structure
+
+- Revisit what you set out to do
+- Summarize how you did it
+- Highlight key findings
+- Explain your contribution to literature or policy
+- **Do not** introduce new material
+
+## Conclusion -- Example 1
+
+> "Improving walkability is gaining traction as an essential strategy for achieving economic, public health, and sustainability goals in cities worldwide. The newfound appreciation for walkability has coincided with concern about effectively facilitating safe walking journeys. While data-driven analysis methods have long been used to study vehicular traffic, such methods are only recently being applied to pedestrian problems."
+
+- **Summarizes the broader relevance** of the research topic (walkability and urban challenges).
+- **Links back to bigger goals** (economic, health, sustainability).
+- **Highlights the contribution**: applying data-driven methods to a newer problem area.
+- **Stays at a high-level overview**, appropriate for a conclusion (no new data or new arguments).
+- **Leaves the reader with a clear sense** of why the project matters.
+
+---
+
+## Conclusion -- Example 2
+
+> "This study mainly explores and discusses the effects of various commuting types on the obesity rate. Dividing 9 commuting types into 3, this study analyses the relationship between commuting and obesity by three methodologies, linear regression, K-means clustering and geographically weighted regression. The result demonstrates that car-led commuting is highly correlative to the obesity rate, and non-car commuting only can slightly allay the situation of rapidly elevated obesity rate caused by car-led commuting."
+
+- **Summarizes the methods and findings**, but **focuses heavily on what was done** rather than why it matters.
+- **Too descriptive**: repeats steps from Methods and Results without emphasizing the bigger contribution.
+- **Misses an opportunity** to connect findings to broader societal or policy implications.
+- **No clear final message** about the importance or future use of the findings.
+- **Reads more like a summary of methods** than a reflective closing to the thesis.
+
+
+# Top Writing Tips
+
+- End your introduction with a short section on thesis structure
+- Start each chapter with a short paragraph linking it to the previous one
+- Avoid merging results and discussion unless fully integrated
+- Every figure should be referenced and add value
+- Use flow diagrams to show data/method progression
+
+
+# Planning and Process Tips
+
+## Write Iteratively
+
+- Dissertation writing is rarely linear
+- Expect multiple revisions
+
+## Organise Yourself
+
+- Gantt charts, Trello boards, and research logs are helpful
+- Meet with your supervisor regularly and share drafts
+
+## Read Actively
+
+- Compare examples: focus on how arguments are built
+
+# Research Language to Use
+
+- **Research gap**: what is missing?
+- **Contribution**: what new knowledge or insight are you adding?
+- **Novelty**: what is new about your approach or study?
+- **Insight**: what have you learned?
+
+
+# Final Tips
+
+- Keep your work relevant to the research question and policy context
+- Be clear, structured, and specific
+- Remember: Your supervisor or marker reads once; you edit daily
