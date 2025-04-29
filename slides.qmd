@@ -1,0 +1,45 @@
+---
+title: "How to Guide: Dissertation"
+author: "Clara Peiret-García"
+format: revealjs
+---
+
+# Research Design
+
+## Research question, aim, and objectives definitions
+
+- **Research question**: Is the central question that the thesis will try to answer.
+
+    - Example: *What has been the impact of the UK sugar tax on obesity levels?*
+
+- **Research aim**: Is a broad statement of what you intend to achieve within your thesis -- usually, it is the research question paraphrased.
+
+    - Example: This research will evaluate the impact of the 2018 Soft Drinks Levy on obesity in hte UK.
+
+## Research question, aim, and objectives definitions
+
+- **Research objectives**: They are a list of measurable and specific goals required in order to achieve your research aim. It is good practice for objectives to follow the S.M.A.R.T. format: 
+
+    - **S**pecific: State exactly what you need to achieve.
+    - **M**easurable: Clearly outline how you will known if you have achieved the objective.
+    - **A**chievable: Set objectives that you think will be achievable based on your experience.
+    - **R**ealistic: Establish if you will be able to fulfill the objective. 
+    - **T**ime constrained: Identify when objectives should be completed by to ensure the project is finished on time.
+
+## Research question, aim, and objectives definitions
+
+Objectives will develop as you carry out your work, but using the example of the sugar tax a starting point could be:
+
+- Review existing work and the political landscape that led to the new levy.
+- Provide a compressive statistical and spatial comparison between obesity levels prior to and after the implementation of the 2018 Soft Drinks Levy.
+- Establish the spatial distribution of influence and explore any regional variations through spatial analysis.
+- Evaluate the effectiveness compared to levies implemented in other similar countries. Produce recommendations for targetted evidence-based policies or actions.
+
+# Writing the thesis
+
+# 
+
+![Source: https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/](scientific-writing-featured.png)
+
+## Introduction and literature review
+
