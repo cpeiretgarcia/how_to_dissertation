@@ -11,11 +11,14 @@ format:
      css: style.css
      footer: '[]()'
      mainfont: Avenir Book
+     slide-number: true
+     show-slide-number: print
 ---
 
 ## Dissertation timetable
 
--   Kick-off (April 30th)
+::: {.fragment .fade-in style="font-size: 70%;"}
+-   [Kick-off (April 30th)]{style="color:#adb5bd;"}
 -   Research design (beginning of May)
 -   Introduction and literature review (beginning of May)
 -   Methods and results (end of May)
@@ -24,7 +27,12 @@ format:
 -   Project updates (weekly meetings)
 -   After each session -- send us some work to comment on, we can review it together before starting the next session.
 -   July 21st -- Dissertation mini-conference
--   August 22nd -- Dissertation submission deadline
+-   **August 22nd -- Dissertation submission deadline**
+:::
+
+::: {.notes}
+This is an orientative schedule from the KO meeting until the dissertation's deadline.  
+:::
 
 ## Kick-off
 
@@ -40,11 +48,17 @@ format:
 ## What is Research Design?
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   A clear plan that guides your dissertation from start to finish
+-   A clear plan that guides your dissertation from start to finish.
 :::
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
 -   Helps you define *what* you are studying, *why*, and *how* you will achieve it
+:::
+
+:::{.notes}
+-   The research design is a plan that you will follow throughout your presentation and that will guide you from the beginning until the end.
+
+-   The research design helps you define your research question (**what** you are studying), and the methods (**how**) you will develop to answer the research question.
 :::
 
 ## Research Question, Aim, and Objectives
@@ -56,9 +70,15 @@ format:
 :::
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   **Research aim**: A broad statement of intent, often paraphrasing the research question.
+-   **Research aim**: A broad statement of intent, often paraphrasing the research question. Should answer the question *What are you trying to achieve with this study?*
 
     > Example: *This research will evaluate the impact of the 2018 Soft Drinks Levy on obesity levels in the UK.*
+:::
+
+:::{.notes}
+-   The research question is the central question your dissertation will answer. It helps you focus your topic and the scope of your study.
+
+-   The research aim paraphrases the research question and should answer the question: *What are you trying to achieve with this study?*
 :::
 
 ------------------------------------------------------------------------
@@ -85,6 +105,12 @@ format:
 -   [**T**]{style="color:red;"}ime constrained: Define deadlines to keep on track
 :::
 
+:::{.notes}
+-   Research objectives are specific, measurable goals that help you answer your research question.
+
+-   A helpful way to state your research objectives is to follow the S.M.A.R.T. framework. 
+:::
+
 ------------------------------------------------------------------------
 
 ## Example of Developing Objectives
@@ -92,23 +118,23 @@ format:
 Using the UK sugar tax example, your objectives might be:
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   Review existing literature and political context leading to the levy
+-   Review existing literature and political context leading to the levy.
 :::
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   Provide a statistical and spatial comparison of obesity levels before and after the levy
+-   Provide a statistical and spatial comparison of obesity levels before and after the levy.
 :::
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   Establish regional variations in impact through spatial analysis
+-   Establish regional variations in impact through spatial analysis.
 :::
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   Compare effectiveness with similar policies internationally
+-   Compare effectiveness with similar policies internationally.
 :::
 
 ::: {.fragment .fade-in style="font-size: 80%;"}
--   Produce evidence-based recommendations for future policy
+-   Produce evidence-based recommendations for future policy.
 :::
 
 # Writing a Dissertation
@@ -117,6 +143,15 @@ Using the UK sugar tax example, your objectives might be:
 
 ::: {style="font-size: 70%; text-align: center; margin-top: 1em;"}
 Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertation-studying-for-a-dissertation/#127\" target=\"_blank\">CASA Dissertation Guide (Andrew MacLachlan)</a>
+:::
+
+:::{.notes}
+-   Once you have your research question and objectives, it is time to start writing your dissertation.
+
+-   A commonly used technique for writing academic papers/dissertations is the *funnel* technique, where you guide the reader from a wider understanding of the topic to your specific research focus.
+
+-   The idea is to start broad to introduce the big picture; narrow it down to highlight the research gap and where your research fits; and end up broad again highlighting how your findings contribute to the general field.
+
 :::
 
 ## 
@@ -128,15 +163,21 @@ Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertati
 ## Purpose of the Introduction
 
 ::: {.fragment .fade-in style="font-size: 100%;"}
--   State the broad challenge or issue your research addresses
+-   State the broad challenge or issue your research addresses.
 :::
 
 ::: {.fragment .fade-in style="font-size: 100%;"}
--   Provide global context before narrowing down to local case studies
+-   Provide global context before narrowing down to local case studies.
 :::
 
 ::: {.fragment .fade-in style="font-size: 100%;"}
--   Show why your researc matters and the gap it addresses
+-   Show why your research matters and the gap it addresses.
+:::
+
+:::{.notes}
+-   The introduction is the section of your dissertation where you first introduce the funnel technique. You should first state the broad challenge your research addresses, providing global context before you narrow it down to the more specific problem you are trying to solve.
+
+-   By the end of the introduction you should have shown why your research matters and what is the research gap you are trying to fill in.
 :::
 
 ## Setting up the **big picture**
@@ -195,6 +236,13 @@ Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertati
 :::
 ::::::
 
+:::{.notes}
+-   To set up the big picture, certain types of papers are very helpful.
+-   Policy papers help framing your research in the context of existing challenges or strategies that have been agreed to be important (UN's SDGs, urban sustainability, specific development plans).
+-   Additionally, research papers published in wide-scope journals like *Nature*, *Science* or *The Lancet* help providing scientific evidence on why your research topic is important.
+
+:::
+
 ## Start of Introduction -- Example 1
 
 
@@ -204,6 +252,9 @@ Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertati
 
 :::
 
+:::{.notes}
+-   We will examine a couple of examples of introduction sections.
+:::
 ##
 
 ::: {.fragment .fade-in style="font-size: 70%;"}
@@ -321,6 +372,11 @@ Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertati
 :::
 
 ------------------------------------------------------------------------
+
+## Literature review
+
+-   
+
 
 ## Literature Review -- Example 1
 
