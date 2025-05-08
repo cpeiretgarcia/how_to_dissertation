@@ -20,10 +20,11 @@ format:
 ::: {.fragment .fade-in style="font-size: 70%;"}
 -   [Kick-off (April 30th)]{style="color:#adb5bd;"}
 -   Research design (beginning of May)
--   Introduction and literature review (beginning of May)
--   Methods and results (end of May)
--   Discussion and conclusion (start of June)
--   Final review of the thesis (end of June)
+-   Introduction and literature review (end of May)
+-   Methods (beginning of June)
+-   Results (end of June)
+-   Discussion and conclusion (start of July)
+-   Final review of the thesis (end of July)
 -   Project updates (weekly meetings)
 -   After each session -- send us some work to comment on, we can review it together before starting the next session.
 -   July 21st -- Dissertation mini-conference
@@ -373,10 +374,23 @@ Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertati
 
 ------------------------------------------------------------------------
 
-## Literature review
+## The Literature Review Section
 
--   
+::: {.fragment .fade-in style="font-size: 70%;"}
+-   It tells a story through the papers that have been written on the topic.
+:::
 
+::: {.fragment .fade-in style="font-size: 70%;"}
+-   Results of other studies should be critically discussed, and their results interpreted. 
+:::
+
+::: {.fragment .fade-in style="font-size: 70%;"}
+-   Reviewing other people's works helps you build an argument based on scientific evidence.
+:::
+
+::: {.fragment .fade-in style="font-size: 70%;"}
+-   You build up to the moment of identifying the research gap you are trying to address.
+:::
 
 ## Literature Review -- Example 1
 
