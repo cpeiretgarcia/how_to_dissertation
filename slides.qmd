@@ -4,15 +4,16 @@ subtitle: "A Practical Guide"
 author: ""
 institute: "UCL Centre for Advanced Spatial Analysis"
 date: last-modified
-format: 
-   revealjs:
-     transition: fade
-     theme: slides-theme.scss
-     css: style.css
-     footer: '[]()'
-     mainfont: Avenir Book
-     slide-number: true
-     show-slide-number: print
+format: pdf
+# format: 
+#    revealjs:
+#      transition: fade
+#      theme: slides-theme.scss
+#      css: style.css
+#      footer: '[]()'
+#      mainfont: Avenir Book
+#      slide-number: true
+#      show-slide-number: print
 ---
 
 ## Dissertation timetable
@@ -157,7 +158,7 @@ Content adapted from <a href=\"https://andrewmaclachlan.github.io/CASAdissertati
 
 ## 
 
-![Source: https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/](scientific-writing-featured.png){width="2226"}
+![Source: https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/](scientific-writing-featured.png)
 
 # Introduction & Literature Review
 
